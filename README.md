@@ -3,3 +3,4 @@ RF-PGS is a novel framework for fully-structured spatial wireless channel repres
 
 Code will be released upon paper acceptance.
 
+https://github.com/SunLab-UGA/RF-PGS/blob/main/RF-PGS_demo.mp4
