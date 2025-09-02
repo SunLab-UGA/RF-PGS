@@ -1,5 +1,6 @@
 # RF-PGS
 RF-PGS is a novel framework for fully-structured spatial wireless channel representation based on Planar Gaussian Splatting, enabling accurate and efficient modeling of full radio propagation paths. 
+[**[2508.16849] RF-PGS: A Fully-Structured Radio Propagation Representation with Planar Gaussian Splatting**](https://arxiv.org/abs/2508.16849)
 
 Code will be released upon paper acceptance.
 
